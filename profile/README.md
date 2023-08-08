@@ -1,6 +1,6 @@
 # Engineering Labs™
 
-![Engineering Labs Logo](./src/engineeringlbs.png)
+![Engineering Labs Logo](./engineeringlbs.png)
 
 ## Welcome to Engineering Labs!
 
