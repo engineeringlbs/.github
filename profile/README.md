@@ -1,6 +1,6 @@
 # Engineering Labs™
 
-![Engineering Labs Logo](./engineeringlbs.png)
+![Engineering Labs Logo](https://github.com/engineeringlbs/brand-resources/blob/main/brand/logo-100w.png)
 
 ## Welcome to Engineering Labs!
 
@@ -42,7 +42,7 @@ Engineering Labs™ projects are open-source and released under the [MIT License
 
 ## Contact
 
-For any questions, suggestions, or collaboration inquiries, feel free to reach out to us at hello@engineeringlabs.io.
+For any questions, suggestions, or collaboration inquiries, feel free to reach out to us at [hello@engineeringlabs.io](mailto:hello@engineeringlabs.io).
 
 Let's create an inclusive and exciting learning journey for kids together at Engineering Labs™!
 
